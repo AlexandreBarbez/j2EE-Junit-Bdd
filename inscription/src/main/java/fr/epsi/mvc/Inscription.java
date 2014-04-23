@@ -7,6 +7,7 @@ import java.util.Objects;
 
 public class Inscription {
 
+	
 	private String login;
 	private String email;
 	private boolean conditionsGeneralesApprouvees;
