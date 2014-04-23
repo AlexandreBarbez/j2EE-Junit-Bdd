@@ -6,6 +6,7 @@ import static java.lang.Math.abs;
 public class monMain {
 	
     public static int trouverValeurAbsolue(int i) {
+    	
         return abs(i);
     }
 }
