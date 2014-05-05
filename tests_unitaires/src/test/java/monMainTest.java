@@ -20,6 +20,7 @@ public class monMainTest {
 
     @Test
     public void renvoieUnNombreZero(){
+    	
         assertEquals(0,monMain.trouverValeurAbsolue(0));
 }
 }

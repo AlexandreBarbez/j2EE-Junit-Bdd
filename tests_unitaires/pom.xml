@@ -14,6 +14,10 @@
 			<name>Alexandre Barbez</name>
 			<email>alexandre.barbez@gmail.com</email>
 		</developer>
+		<developer>
+			<name>Alexandre Saint-orens</name>
+			<email>alexandre.saintorens@gmail.com</email>
+		</developer>
 	</developers>
 
 	<properties>
